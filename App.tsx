@@ -107,7 +107,7 @@ const App: React.FC = () => {
              <div className="absolute inset-0 bg-speaker-grille bg-[length:8px_8px] opacity-80 rounded-lg shadow-inset-screen border border-black"></div>
              {/* Badge */}
              <div className="absolute bottom-6 left-1/2 -translate-x-1/2 w-[85%] bg-black/80 border border-white/20 py-1.5 rounded text-[7px] lg:text-[9px] font-mono text-radio-dim uppercase tracking-wider text-center z-20 leading-tight">
-                MODEL:<br/>LYRIA 3 PRO
+                MODEL:<br/>ADI 1.0 PRO
              </div>
          </div>
 

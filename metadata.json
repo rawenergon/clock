@@ -1,6 +1,6 @@
 {
-  "name": "FINAL CLOCK",
-  "description": "An AI-powered alarm clock that composes a unique song every morning based on your agenda, weather, and location.",
+  "name": "Adi",
+  "description": "An AI-powered personal assistant and alarm clock that composes unique morning songs based on your life.",
   "requestFramePermissions": [
     "geolocation"
   ],
